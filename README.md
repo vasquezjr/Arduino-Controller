@@ -5,6 +5,7 @@ This app is built on React Native to communicated with Node-Red that is being se
 
 #### Hardware Used
 Raspberry Pi 3
+
 Arduino
 
 #### Software Used
