@@ -1,7 +1,6 @@
 # Hardware Controller
 
-
-This app is built on React Native to communicated with Node-Red that is being served on a Raspberry Pi 3
+This app is built on React Native to communicate with Node-Red that is being served on a Raspberry Pi 3
 
 #### Hardware Used
 * Raspberry Pi 3
