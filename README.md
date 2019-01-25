@@ -6,7 +6,7 @@ This app is built on React Native to communicated with Node-Red that is being se
 
 
 
-# Issues on Linux. Permissions
+### Issues on Linux. Permissions
 
 * This below allows you permission to use the PORT
   and to be able to upload Sketches in Arduino IDE and 
