@@ -1,4 +1,4 @@
-## Hardware Controller
+# Hardware Controller
 
 
 This app is built on React Native to communicated with Node-Red that is being served on a Raspberry Pi 3
