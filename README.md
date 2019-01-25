@@ -7,10 +7,10 @@ This app is built on React Native to communicated with Node-Red that is being se
 Raspberry Pi 3
 Arduino
 
-### Software Used
+#### Software Used
 Node-Red
 
-### Issues on Linux. Permissions
+#### Issues on Linux. Permissions
 
 * To allow permission to use the USB PORT and to be able to upload Sketches in Arduino IDE and use Nod-RED 
 ls -l /dev/ttyACM0
