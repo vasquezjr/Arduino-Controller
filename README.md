@@ -4,12 +4,12 @@
 This app is built on React Native to communicated with Node-Red that is being served on a Raspberry Pi 3
 
 #### Hardware Used
-Raspberry Pi 3
-
-Arduino
+* Raspberry Pi 3
+* Arduino
 
 #### Software Used
-Node-Red
+* Node-Red
+* Raspbian OS  for Raspberry Pi 3
 
 #### Issues on Linux. Permissions
 
